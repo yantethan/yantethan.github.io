@@ -13,7 +13,7 @@ Here are some extra details for the project:
 <img src="images/8x8dotmatrix.jpg" alt="8x8 Dot Matrix" width="300" height="230" title="8x8 Dot Matrix">
 
 - Analog Joystick Module
-<img src="images/analogjoystick.jpg" alt="Analog Joystick Module" width="300" height="230" title="Analog Joystick Module">
+<img src="images/analogjoystick.JPG" alt="Analog Joystick Module" width="300" height="230" title="Analog Joystick Module">
 
 - 4-Digit 7-Segment Display Module
 <img src="images/4_7segment.jpg" alt="4-Digit 7-Segment Display" width="300" height="230" title="4-Digit 7-Segment Display">
