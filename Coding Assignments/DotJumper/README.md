@@ -13,3 +13,5 @@ Here are some extra details for the project:
 - One Set 7-Segment Display Module
 
 ![](images/8x8dotmatrix.jpg)
+
+<img src="images/8x8dotmatrix.jpg" alt="8x8 Dot Matrix" width="230" height="300" title="8x8 Dot Matrix">
