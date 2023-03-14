@@ -5,8 +5,9 @@ For my final project in an assembly coding class focused on PIC micro-controller
 
 ## Details
 Here are some extra details for the project:
-### Components
+### Components and Their Connections
 - PIC 18F452 Micro-controller
+> Makes use of 
 <img src="images/PIC18F452-S2X-Regular.jpg" alt="PIC 18F452" width="300" height="230" title="PIC 18F452">
 
 - MAX7219 8x8 Dot Matrix Display Module
@@ -21,7 +22,8 @@ Here are some extra details for the project:
 - 1-Digit 7-Segment Display Module
 <img src="images/1_7segment.jpg" alt="1-Digit 7-Segment Display" width="300" height="230" title="1-Digit 7-Segment Display">
 
-
+### Connections/Communication
+The 
 
 
 
