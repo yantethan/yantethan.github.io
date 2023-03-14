@@ -8,6 +8,7 @@ Here are some extra details for the project:
 ### Components
 - PIC 18F452 Micro-controller
 <img src="images/8x8dotmatrix.jpg" alt="8x8 Dot Matrix" width="300" height="230" title="8x8 Dot Matrix">
+
 - MAX7219 8x8 Dot Matrix Display Module
 - Analog Joystick Module
 - Four Set 7-Segment Display Module
