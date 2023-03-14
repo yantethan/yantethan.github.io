@@ -7,7 +7,8 @@ For my final project in an assembly coding class focused on PIC micro-controller
 Here are some extra details for the project:
 ### Components
 - PIC 18F452 Micro-controller
-<img src="PIC18F452-S2X-Regular.jpg" alt="8x8 Dot Matrix" width="300" height="230" title="8x8 Dot Matrix">
+![](PIC18F452-S2X-Regular.jpg)
+<img src="PIC18F452-S2X-Regular.jpg" alt="PIC 18F452" width="300" height="230" title="PIC 18F452">
 
 - MAX7219 8x8 Dot Matrix Display Module
 <img src="8x8dotmatrix.jpg" alt="8x8 Dot Matrix" width="300" height="230" title="8x8 Dot Matrix">
