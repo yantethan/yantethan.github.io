@@ -8,11 +8,11 @@ For my final project in an assembly coding class focused on PIC micro-controller
 ## Details
 Here are some extra details for the project:
 ### Components and Their Connections
-- PIC 18F452 Micro-controller
+- [PIC 18F452 Micro-controller](https://www.microchip.com/en-us/product/PIC18F452)
   - Micro-controller that is running the game.
 <img src="images/PIC18F452-S2X-Regular.jpg" alt="PIC 18F452" width="300" height="230" title="PIC 18F452">
 
-- MAX7219 8x8 Dot Matrix Display Module
+- [MAX7219 8x8 Dot Matrix Display Module](https://www.amazon.com/HiLetgo-MAX7219-Matrix-Display-Control/dp/B07W6KZR5D)
   - Connects to the PIC using SPI Communication Protocol.  The Dot Matrix takes the row as the address, and then the data represents the columns of the specific rows. 
 <img src="images/8x8dotmatrix.jpg" alt="8x8 Dot Matrix" width="300" height="230" title="8x8 Dot Matrix">
 
@@ -43,3 +43,6 @@ Here are some extra details for the project:
   - Fixable by better code ordering/planning.
 - Tricky to play on this dot matrix, as it sometimes tricks the eyes on what direction the logs are rotating.
   - Could be improved by a better display or one that's multicolored.
+
+## Further Plans
+I would like to rewrite this in C to see how much I could improve the program by writing in a language I am comfortable with.  Assembly is still new to me. 
