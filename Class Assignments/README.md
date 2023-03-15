@@ -5,15 +5,9 @@ Completed class assignments will be shown below.  Most, if not all, do not have 
 ### Data Structures and Algorithms with C++ 
 #### Final Project - Sorting Algorithm Comparison
 
-For this project, I was assigned to make a program to compare the efficiency of the different sorting algorithms we learned throughout class. The algorithms we compared are: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.  
-
-  
-
-This was performed by generating a set of ten randomized test cases of 2000 values each. Each test case was run on each algorithm five times and their times were averaged. Once completed, the program would print out the each test time for each algorithm in a table, and then the Max, Min, and Average for each test number. The test numbers correspond to the different algorithms in the same order as introduced above.
+For this project, I was assigned to make a program to compare the efficiency of the different sorting algorithms we learned throughout class. The algorithms we compared are: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.  This was performed by generating a set of ten randomized test cases of 2000 values each. Each test case was run on each algorithm five times and their times were averaged. Once completed, the program would print out the each test time for each algorithm in a table, and then the Max, Min, and Average for each test number. The test numbers correspond to the different algorithms in the same order as introduced above.
 
 ##### Example Output
-An example output:  
-
 -------------------------------- Results ---------------------------------  
 Case #| Selection | Bubble | Insertion | Merge | Quick | Heap  
   1      1842us     6277us    1763us     338us   129us   239us  
@@ -52,6 +46,27 @@ Test Number #6:
 - Max: 303  
 - Min: 208  
 - Avg: 260
+
+#### Train Car Ordering
+This program finds whether or not a set of train cars coming into a station can be arranged in a specified way. The program reads from a text file that includes the train length and requested order of the cars, determines if the order is possible, and outputs to a file if possible or not.  Available here at [Project #1](https://replit.com/@ecy5045/proj1#proj1.cpp)
+
+#### Parenthesis
+This program generates and prints out the set of balanced parenthesis using n open and n close brackets.  'n' is inputted by the user.  Available here at [Project #2](https://replit.com/@ecy5045/CMPSC-465-Project-2-Parenthesis#proj2.cpp)
+
+#### X and O's
+This program takes and input file that defines a 2D board size and a board of X's and O's and captures (replaces with X's) all O's that are surrounded by X's and outputs to a text file.  Available here at [Project #3](https://replit.com/@ecy5045/Project-3#proj3.cpp).
+
+#### Knights Move
+The program then finds the smallest number of "Knight" moves it takes to get to ending position from the starting position.  Available here at [Project #4](https://replit.com/@ecy5045/Project4#proj4.cpp)
+
+#### Inverstions Assignment
+This program reads a text file to obtain sequences of integers values and finds the number of inversions from a sorted array and outputs the number. Available here at [Project #5](https://replit.com/@ecy5045/Project-5#proj5.cpp).
+
+#### Dynamic Programming
+This program reads a text file to obtain a board of 1's and 0's and finds the area of the largest square of 1's inside that board. Available here at [Project #6](https://replit.com/@ecy5045/Project-6-Dynamic-Programming#proj6.cpp).
+
+
+
 
 
 ### Intro to Operating Systems with C
