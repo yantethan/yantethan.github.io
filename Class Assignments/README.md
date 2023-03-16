@@ -65,11 +65,11 @@ This program reads a text file to obtain sequences of integers values and finds 
 #### Dynamic Programming
 This program reads a text file to obtain a board of 1's and 0's and finds the area of the largest square of 1's inside that board. Available here at [Project #6](https://replit.com/@ecy5045/Project-6-Dynamic-Programming#proj6.cpp).
 
-
-
-
-
 ### Intro to Operating Systems with C
+#### IPC Communication 
+This assignment required developing a program that could safely pass data between different threads and another process.  The starting process takes a user input which would be a celcius value to be converted to fahrenheit.  One thread would read the input and add it to a processing queue.  Another thread would pull from the processing queue, convert from celsius to fahrenheit, and then add the converted value into a Sending Queue (for sending to memory).  The last thread removes nodes from the Sending Queue to store the data in a shared memory location.  From there, the second program can access the values from the shared memory and display it to console.  Code available upon *request*. 
+#### Basic Exam
+This assignment implemented a very simple test that the user had to answer.  The goal of this assignment was to use signals to implement the timer for the test.  Every minute due to the alarm signal, the console prints out a message stating the number of minutes passed and how many are left.  After ten minutes, the text would be ended and total points printed.  Code available upon request. 
 
 ### Embedded System Design or Microcontroller with C or Assembly
 
